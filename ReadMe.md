@@ -6,7 +6,8 @@ This small utility shows dpi-awareness of running processes. Just run CheckDpiAw
     PID     Awareness       Process name                                              
     ---     ---------       ------------                                              
     884     !PerMonitor     ConEmu.exe            CheckDpiAwareness.exe - Far 3....   
-    1992    !PerMonitor     explorer.exe          <Shell_TrayWnd>                     
+    1992    !PerMonitor     explorer.exe          <Shell_TrayWnd>
+    10820   !PerMonitor     iexplore.exe          ConEmu - Windows Console Emula...                     
     228     SystemAware     avpui.exe             <AVP.SandboxWindow>                 
     4668    SystemAware     chrome.exe            Maximus5/ConEmu - Google Chrome   
     13368   SystemAware     explorer.exe          This PC                             
